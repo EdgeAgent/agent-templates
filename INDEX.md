@@ -2,6 +2,496 @@
 
 Components from the open-source Claude Code Templates catalog (davila7/claude-code-templates, aitmpl.com), MIT license.
 
+## agents/accessibility
+- `agents/accessibility/accessibility-tester.md`
+
+## agents/ai-specialists
+- `agents/ai-specialists/ai-ethics-advisor.md`
+- `agents/ai-specialists/hackathon-ai-strategist.md`
+- `agents/ai-specialists/llm-architect.md`
+- `agents/ai-specialists/llms-maintainer.md`
+- `agents/ai-specialists/model-evaluator.md`
+- `agents/ai-specialists/prompt-engineer.md`
+- `agents/ai-specialists/search-specialist.md`
+- `agents/ai-specialists/task-decomposition-expert.md`
+
+## agents/api-graphql
+- `agents/api-graphql/api-architect.md`
+- `agents/api-graphql/api-designer.md`
+- `agents/api-graphql/graphql-architect.md`
+- `agents/api-graphql/graphql-performance-optimizer.md`
+- `agents/api-graphql/graphql-security-specialist.md`
+- `agents/api-graphql/shopify-expert.md`
+
+## agents/blockchain-web3
+- `agents/blockchain-web3/blockchain-developer.md`
+- `agents/blockchain-web3/smart-contract-auditor.md`
+- `agents/blockchain-web3/smart-contract-specialist.md`
+- `agents/blockchain-web3/web3-integration-specialist.md`
+
+## agents/business-marketing
+- `agents/business-marketing/business-analyst.md`
+- `agents/business-marketing/communication-excellence-coach.md`
+- `agents/business-marketing/competitive-analyst.md`
+- `agents/business-marketing/content-marketer.md`
+- `agents/business-marketing/customer-success-manager.md`
+- `agents/business-marketing/customer-support.md`
+- `agents/business-marketing/legal-advisor.md`
+- `agents/business-marketing/market-researcher.md`
+- `agents/business-marketing/marketing-attribution-analyst.md`
+- `agents/business-marketing/payment-gateway-integrator.md`
+- `agents/business-marketing/product-manager.md`
+- `agents/business-marketing/product-strategist.md`
+- `agents/business-marketing/project-manager.md`
+- `agents/business-marketing/sales-automator.md`
+- `agents/business-marketing/sales-engineer.md`
+- `agents/business-marketing/salesforce-expert.md`
+- `agents/business-marketing/scrum-master.md`
+- `agents/business-marketing/seo-specialist.md`
+- `agents/business-marketing/trading-risk-manager.md`
+- `agents/business-marketing/trend-analyst.md`
+- `agents/business-marketing/ux-researcher.md`
+
+## agents/data-ai
+- `agents/data-ai/adr-generator.md`
+- `agents/data-ai/ai-engineer.md`
+- `agents/data-ai/amplitude-experiment-implementation.md`
+- `agents/data-ai/blueprint-mode-codex.md`
+- `agents/data-ai/blueprint-mode.md`
+- `agents/data-ai/clojure-interactive-programming.md`
+- `agents/data-ai/code-tour.md`
+- `agents/data-ai/computer-vision-engineer.md`
+- `agents/data-ai/data-analyst.md`
+- `agents/data-ai/data-engineer.md`
+- `agents/data-ai/data-scientist.md`
+- `agents/data-ai/demonstrate-understanding.md`
+- `agents/data-ai/dotnet-maui.md`
+- `agents/data-ai/hlbpa.md`
+- `agents/data-ai/machine-learning-engineer.md`
+- `agents/data-ai/microsoft-agent-framework-dotnet.md`
+- `agents/data-ai/ml-engineer.md`
+- `agents/data-ai/mlops-engineer.md`
+- `agents/data-ai/monday-bug-fixer.md`
+- `agents/data-ai/ms-sql-dba.md`
+- `agents/data-ai/neon-migration-specialist.md`
+- `agents/data-ai/neon-optimization-analyzer.md`
+- `agents/data-ai/nlp-engineer.md`
+- `agents/data-ai/postgresql-dba.md`
+- `agents/data-ai/power-bi-data-modeling-expert.md`
+- `agents/data-ai/power-bi-dax-expert.md`
+- `agents/data-ai/power-platform-expert.md`
+- `agents/data-ai/prd.md`
+- `agents/data-ai/prompt-builder.md`
+- `agents/data-ai/prompt-engineer.md`
+- `agents/data-ai/quant-analyst.md`
+- `agents/data-ai/se-product-manager-advisor.md`
+- `agents/data-ai/se-system-architecture-reviewer.md`
+- `agents/data-ai/semantic-kernel-dotnet.md`
+- `agents/data-ai/simple-app-idea-generator.md`
+- `agents/data-ai/software-engineer-agent-v1.md`
+- `agents/data-ai/task-planner.md`
+- `agents/data-ai/task-researcher.md`
+- `agents/data-ai/tdd-green.md`
+- `agents/data-ai/tdd-red.md`
+
+## agents/database
+- `agents/database/database-admin.md`
+- `agents/database/database-administrator.md`
+- `agents/database/database-architect.md`
+- `agents/database/database-optimization.md`
+- `agents/database/database-optimizer.md`
+- `agents/database/neon-auth-specialist.md`
+- `agents/database/neon-database-architect.md`
+- `agents/database/neon-expert.md`
+- `agents/database/nosql-specialist.md`
+- `agents/database/postgres-pro.md`
+- `agents/database/supabase-schema-architect.md`
+
+## agents/deep-research-team
+- `agents/deep-research-team/academic-researcher.md`
+- `agents/deep-research-team/agent-overview.md`
+- `agents/deep-research-team/competitive-intelligence-analyst.md`
+- `agents/deep-research-team/data-analyst.md`
+- `agents/deep-research-team/data-researcher.md`
+- `agents/deep-research-team/fact-checker.md`
+- `agents/deep-research-team/multi-source-searcher.md`
+- `agents/deep-research-team/nia-oracle.md`
+- `agents/deep-research-team/query-clarifier.md`
+- `agents/deep-research-team/report-generator.md`
+- `agents/deep-research-team/research-analyst.md`
+- `agents/deep-research-team/research-brief-generator.md`
+- `agents/deep-research-team/research-coordinator.md`
+- `agents/deep-research-team/research-orchestrator.md`
+- `agents/deep-research-team/research-synthesizer.md`
+- `agents/deep-research-team/technical-researcher.md`
+
+## agents/development-team
+- `agents/development-team/backend-architect.md`
+- `agents/development-team/backend-developer.md`
+- `agents/development-team/cli-ui-designer.md`
+- `agents/development-team/code-architect.md`
+- `agents/development-team/code-explorer.md`
+- `agents/development-team/devops-engineer.md`
+- `agents/development-team/electron-pro.md`
+- `agents/development-team/flutter-ui-developer`
+- `agents/development-team/frontend-developer.md`
+- `agents/development-team/fullstack-developer.md`
+- `agents/development-team/ios-developer.md`
+- `agents/development-team/mobile-app-developer.md`
+- `agents/development-team/mobile-developer.md`
+- `agents/development-team/sdd-spec-writer.md`
+- `agents/development-team/test-generator.md`
+- `agents/development-team/test-runner.md`
+- `agents/development-team/ui-designer.md`
+- `agents/development-team/ui-ux-designer.md`
+
+## agents/development-tools
+- `agents/development-tools/accessibility-tester.md`
+- `agents/development-tools/architect-reviewer.md`
+- `agents/development-tools/ascii-ui-mockup-generator.md`
+- `agents/development-tools/build-engineer.md`
+- `agents/development-tools/chaos-engineer.md`
+- `agents/development-tools/cli-developer.md`
+- `agents/development-tools/code-reviewer.md`
+- `agents/development-tools/code-simplifier.md`
+- `agents/development-tools/codebase-explorer.md`
+- `agents/development-tools/codebase-pattern-finder.md`
+- `agents/development-tools/command-expert.md`
+- `agents/development-tools/context-manager.md`
+- `agents/development-tools/debugger.md`
+- `agents/development-tools/dependency-manager.md`
+- `agents/development-tools/dx-optimizer.md`
+- `agents/development-tools/error-detective.md`
+- `agents/development-tools/flutter-go-reviewer.md`
+- `agents/development-tools/general-purpose.md`
+- `agents/development-tools/laravel-expert-agent.md`
+- `agents/development-tools/launchdarkly-flag-cleanup.md`
+- `agents/development-tools/mcp-expert.md`
+- `agents/development-tools/pagerduty-incident-responder.md`
+- `agents/development-tools/performance-engineer.md`
+- `agents/development-tools/performance-profiler.md`
+- `agents/development-tools/playwright-tester.md`
+- `agents/development-tools/qa-expert.md`
+- `agents/development-tools/refactoring-specialist.md`
+- `agents/development-tools/rootly-incident-responder.md`
+- `agents/development-tools/slack-expert.md`
+- `agents/development-tools/technical-debt-manager.md`
+- `agents/development-tools/test-automator.md`
+- `agents/development-tools/test-engineer.md`
+- `agents/development-tools/thinking-beast-mode.md`
+- `agents/development-tools/tooling-engineer.md`
+- `agents/development-tools/unused-code-cleaner.md`
+
+## agents/devops-infrastructure
+- `agents/devops-infrastructure/apify-integration-expert.md`
+- `agents/devops-infrastructure/arm-migration.md`
+- `agents/devops-infrastructure/azure-iac-exporter.md`
+- `agents/devops-infrastructure/azure-iac-generator.md`
+- `agents/devops-infrastructure/azure-infra-engineer.md`
+- `agents/devops-infrastructure/azure-logic-apps-expert.md`
+- `agents/devops-infrastructure/azure-principal-architect.md`
+- `agents/devops-infrastructure/azure-saas-architect.md`
+- `agents/devops-infrastructure/azure-verified-modules-bicep.md`
+- `agents/devops-infrastructure/azure-verified-modules-terraform.md`
+- `agents/devops-infrastructure/bicep-implement.md`
+- `agents/devops-infrastructure/bicep-plan.md`
+- `agents/devops-infrastructure/cloud-architect.md`
+- `agents/devops-infrastructure/deployment-engineer.md`
+- `agents/devops-infrastructure/devops-engineer.md`
+- `agents/devops-infrastructure/devops-expert.md`
+- `agents/devops-infrastructure/devops-incident-responder.md`
+- `agents/devops-infrastructure/devops-troubleshooter.md`
+- `agents/devops-infrastructure/incident-responder.md`
+- `agents/devops-infrastructure/kubernetes-specialist.md`
+- `agents/devops-infrastructure/kusto-assistant.md`
+- `agents/devops-infrastructure/m365-admin.md`
+- `agents/devops-infrastructure/microservices-architect.md`
+- `agents/devops-infrastructure/microsoft-study-mode.md`
+- `agents/devops-infrastructure/monitoring-specialist.md`
+- `agents/devops-infrastructure/neo4j-docker-client-generator.md`
+- `agents/devops-infrastructure/network-engineer.md`
+- `agents/devops-infrastructure/octopus-deploy-release-notes-mcp.md`
+- `agents/devops-infrastructure/platform-engineer.md`
+- `agents/devops-infrastructure/se-gitops-ci-specialist.md`
+- `agents/devops-infrastructure/security-engineer.md`
+- `agents/devops-infrastructure/sre-engineer.md`
+- `agents/devops-infrastructure/terraform-azure-implement.md`
+- `agents/devops-infrastructure/terraform-azure-planning.md`
+- `agents/devops-infrastructure/terraform-engineer.md`
+- `agents/devops-infrastructure/terraform-iac-reviewer.md`
+- `agents/devops-infrastructure/terraform-specialist.md`
+- `agents/devops-infrastructure/terragrunt-expert.md`
+- `agents/devops-infrastructure/vercel-deployment-specialist.md`
+- `agents/devops-infrastructure/windows-infra-admin.md`
+
+## agents/documentation
+- `agents/documentation/api-documenter.md`
+- `agents/documentation/arch.md`
+- `agents/documentation/changelog-generator.md`
+- `agents/documentation/context7.md`
+- `agents/documentation/diagram-architect.md`
+- `agents/documentation/documentation-engineer.md`
+- `agents/documentation/docusaurus-expert.md`
+- `agents/documentation/microsoft_learn_contributor.md`
+- `agents/documentation/se-technical-writer.md`
+- `agents/documentation/tech-debt-remediation-plan.md`
+- `agents/documentation/technical-writer.md`
+
+## agents/expert-advisors
+- `agents/expert-advisors/4.1-Beast.md`
+- `agents/expert-advisors/Ultimate-Transparent-Thinking-Beast-Mode.md`
+- `agents/expert-advisors/WinFormsExpert.md`
+- `agents/expert-advisors/address-comments.md`
+- `agents/expert-advisors/agent-expert.md`
+- `agents/expert-advisors/agent-installer.md`
+- `agents/expert-advisors/agent-organizer.md`
+- `agents/expert-advisors/architect-review.md`
+- `agents/expert-advisors/atlassian-requirements-to-jira.md`
+- `agents/expert-advisors/context-manager.md`
+- `agents/expert-advisors/critical-thinking.md`
+- `agents/expert-advisors/custom-agent-foundry.md`
+- `agents/expert-advisors/debug.md`
+- `agents/expert-advisors/declarative-agents-architect.md`
+- `agents/expert-advisors/dependency-manager.md`
+- `agents/expert-advisors/documentation-expert.md`
+- `agents/expert-advisors/dotnet-upgrade.md`
+- `agents/expert-advisors/droid.md`
+- `agents/expert-advisors/drupal-expert.md`
+- `agents/expert-advisors/error-coordinator.md`
+- `agents/expert-advisors/expert-dotnet-software-engineer.md`
+- `agents/expert-advisors/gilfoyle.md`
+- `agents/expert-advisors/gpt-5-beast-mode.md`
+- `agents/expert-advisors/implementation-plan.md`
+- `agents/expert-advisors/it-ops-orchestrator.md`
+- `agents/expert-advisors/janitor.md`
+- `agents/expert-advisors/knowledge-synthesizer.md`
+- `agents/expert-advisors/kotlin-mcp-expert.md`
+- `agents/expert-advisors/legal-advisor.md`
+- `agents/expert-advisors/mcp-m365-agent-expert.md`
+- `agents/expert-advisors/mentor.md`
+- `agents/expert-advisors/meta-agentic-project-scaffold.md`
+- `agents/expert-advisors/modernization.md`
+- `agents/expert-advisors/multi-agent-coordinator.md`
+- `agents/expert-advisors/performance-monitor.md`
+- `agents/expert-advisors/php-mcp-expert.md`
+- `agents/expert-advisors/pimcore-expert.md`
+- `agents/expert-advisors/plan.md`
+- `agents/expert-advisors/planner.md`
+- `agents/expert-advisors/power-bi-performance-expert.md`
+- `agents/expert-advisors/power-bi-visualization-expert.md`
+- `agents/expert-advisors/power-platform-mcp-integration-expert.md`
+- `agents/expert-advisors/principal-software-engineer.md`
+- `agents/expert-advisors/refine-issue.md`
+- `agents/expert-advisors/research-technical-spike.md`
+- `agents/expert-advisors/se-ux-ui-designer.md`
+- `agents/expert-advisors/specification.md`
+- `agents/expert-advisors/swift-mcp-expert.md`
+- `agents/expert-advisors/task-distributor.md`
+- `agents/expert-advisors/voidbeast-gpt41enhanced.md`
+- `agents/expert-advisors/wg-code-alchemist.md`
+- `agents/expert-advisors/workflow-orchestrator.md`
+
+## agents/ffmpeg-clip-team
+- `agents/ffmpeg-clip-team/audio-mixer.md`
+- `agents/ffmpeg-clip-team/audio-quality-controller.md`
+- `agents/ffmpeg-clip-team/podcast-content-analyzer.md`
+- `agents/ffmpeg-clip-team/podcast-metadata-specialist.md`
+- `agents/ffmpeg-clip-team/podcast-transcriber.md`
+- `agents/ffmpeg-clip-team/social-media-clip-creator.md`
+- `agents/ffmpeg-clip-team/timestamp-precision-specialist.md`
+- `agents/ffmpeg-clip-team/video-editor.md`
+
+## agents/finance
+- `agents/finance/bettoredge-value-finder.md`
+- `agents/finance/fintech-engineer.md`
+- `agents/finance/payment-integration.md`
+- `agents/finance/quant-analyst.md`
+- `agents/finance/risk-manager.md`
+
+## agents/game-development
+- `agents/game-development/3d-artist.md`
+- `agents/game-development/game-designer.md`
+- `agents/game-development/game-developer.md`
+- `agents/game-development/unity-game-developer.md`
+- `agents/game-development/unreal-engine-developer.md`
+
+## agents/git
+- `agents/git/commit-guardian.md`
+- `agents/git/git-flow-manager.md`
+- `agents/git/git-workflow-manager.md`
+
+## agents/mcp-dev-team
+- `agents/mcp-dev-team/mcp-deployment-orchestrator.md`
+- `agents/mcp-dev-team/mcp-developer.md`
+- `agents/mcp-dev-team/mcp-integration-engineer.md`
+- `agents/mcp-dev-team/mcp-protocol-specialist.md`
+- `agents/mcp-dev-team/mcp-registry-navigator.md`
+- `agents/mcp-dev-team/mcp-security-auditor.md`
+- `agents/mcp-dev-team/mcp-server-architect.md`
+- `agents/mcp-dev-team/mcp-testing-engineer.md`
+
+## agents/modernization
+- `agents/modernization/architecture-modernizer.md`
+- `agents/modernization/cloud-migration-specialist.md`
+- `agents/modernization/legacy-modernizer.md`
+
+## agents/obsidian-ops-team
+- `agents/obsidian-ops-team/connection-agent.md`
+- `agents/obsidian-ops-team/content-curator.md`
+- `agents/obsidian-ops-team/metadata-agent.md`
+- `agents/obsidian-ops-team/moc-agent.md`
+- `agents/obsidian-ops-team/review-agent.md`
+- `agents/obsidian-ops-team/tag-agent.md`
+- `agents/obsidian-ops-team/vault-optimizer.md`
+
+## agents/obsidian-ops-team/Scripts
+- `agents/obsidian-ops-team/Scripts/daily_notes_connector.py`
+- `agents/obsidian-ops-team/Scripts/enhance_tag_standardizer.py`
+- `agents/obsidian-ops-team/Scripts/find_keyword_connections.py`
+- `agents/obsidian-ops-team/Scripts/fix_quoted_tags.py`
+- `agents/obsidian-ops-team/Scripts/implement_entity_connections.py`
+- `agents/obsidian-ops-team/Scripts/link_suggester.py`
+- `agents/obsidian-ops-team/Scripts/metadata_adder.py`
+- `agents/obsidian-ops-team/Scripts/moc_generator.py`
+- `agents/obsidian-ops-team/Scripts/parse_keyword_connections.py`
+- `agents/obsidian-ops-team/Scripts/tag_standardizer.py`
+
+## agents/ocr-extraction-team
+- `agents/ocr-extraction-team/document-structure-analyzer.md`
+- `agents/ocr-extraction-team/markdown-syntax-formatter.md`
+- `agents/ocr-extraction-team/ocr-grammar-fixer.md`
+- `agents/ocr-extraction-team/ocr-preprocessing-optimizer.md`
+- `agents/ocr-extraction-team/ocr-quality-assurance.md`
+- `agents/ocr-extraction-team/text-comparison-validator.md`
+- `agents/ocr-extraction-team/visual-analysis-ocr.md`
+
+## agents/performance-testing
+- `agents/performance-testing/load-testing-specialist.md`
+- `agents/performance-testing/performance-engineer.md`
+- `agents/performance-testing/react-performance-optimization.md`
+- `agents/performance-testing/test-automator.md`
+- `agents/performance-testing/web-vitals-optimizer.md`
+
+## agents/podcast-creator-team
+- `agents/podcast-creator-team/academic-research-synthesizer.md`
+- `agents/podcast-creator-team/comprehensive-researcher.md`
+- `agents/podcast-creator-team/episode-orchestrator.md`
+- `agents/podcast-creator-team/guest-outreach-coordinator.md`
+- `agents/podcast-creator-team/market-research-analyst.md`
+- `agents/podcast-creator-team/podcast-editor.md`
+- `agents/podcast-creator-team/podcast-trend-scout.md`
+- `agents/podcast-creator-team/project-supervisor-orchestrator.md`
+- `agents/podcast-creator-team/seo-podcast-optimizer.md`
+- `agents/podcast-creator-team/social-media-copywriter.md`
+- `agents/podcast-creator-team/twitter-ai-influencer-manager.md`
+
+## agents/programming-languages
+- `agents/programming-languages/CSharpExpert.md`
+- `agents/programming-languages/angular-architect.md`
+- `agents/programming-languages/c-pro.md`
+- `agents/programming-languages/c-sharp-pro.md`
+- `agents/programming-languages/cpp-pro.md`
+- `agents/programming-languages/csharp-developer.md`
+- `agents/programming-languages/csharp-dotnet-janitor.md`
+- `agents/programming-languages/csharp-mcp-expert.md`
+- `agents/programming-languages/diffblue-cover.md`
+- `agents/programming-languages/django-developer.md`
+- `agents/programming-languages/dotnet-core-expert.md`
+- `agents/programming-languages/dotnet-framework-4.8-expert.md`
+- `agents/programming-languages/elixir-expert.md`
+- `agents/programming-languages/embedded-systems.md`
+- `agents/programming-languages/expert-cpp-software-engineer.md`
+- `agents/programming-languages/flutter-expert.md`
+- `agents/programming-languages/go-mcp-expert.md`
+- `agents/programming-languages/golang-pro.md`
+- `agents/programming-languages/iot-engineer.md`
+- `agents/programming-languages/java-architect.md`
+- `agents/programming-languages/javascript-pro.md`
+- `agents/programming-languages/kotlin-specialist.md`
+- `agents/programming-languages/laravel-specialist.md`
+- `agents/programming-languages/microsoft-agent-framework-python.md`
+- `agents/programming-languages/mongodb-performance-advisor.md`
+- `agents/programming-languages/nextjs-developer.md`
+- `agents/programming-languages/php-pro.md`
+- `agents/programming-languages/powershell-5.1-expert.md`
+- `agents/programming-languages/powershell-7-expert.md`
+- `agents/programming-languages/powershell-module-architect.md`
+- `agents/programming-languages/powershell-ui-architect.md`
+- `agents/programming-languages/python-mcp-expert.md`
+- `agents/programming-languages/python-pro.md`
+- `agents/programming-languages/rails-expert.md`
+- `agents/programming-languages/react-specialist.md`
+- `agents/programming-languages/ruby-mcp-expert.md`
+- `agents/programming-languages/rust-engineer.md`
+- `agents/programming-languages/rust-gpt-4.1-beast-mode.md`
+- `agents/programming-languages/rust-mcp-expert.md`
+- `agents/programming-languages/rust-pro.md`
+- `agents/programming-languages/semantic-kernel-python.md`
+- `agents/programming-languages/shell-scripting-pro.md`
+- `agents/programming-languages/spring-boot-engineer.md`
+- `agents/programming-languages/sql-pro.md`
+- `agents/programming-languages/swift-expert.md`
+- `agents/programming-languages/technical-content-evaluator.md`
+- `agents/programming-languages/typescript-mcp-expert.md`
+- `agents/programming-languages/typescript-pro.md`
+- `agents/programming-languages/vue-expert.md`
+
+## agents/realtime
+- `agents/realtime/supabase-realtime-optimizer.md`
+- `agents/realtime/websocket-engineer.md`
+
+## agents/security
+- `agents/security/ad-security-reviewer.md`
+- `agents/security/ai-agent-audit-specialist.md`
+- `agents/security/api-security-audit.md`
+- `agents/security/comet-opik.md`
+- `agents/security/compliance-auditor.md`
+- `agents/security/compliance-specialist.md`
+- `agents/security/dynatrace-expert.md`
+- `agents/security/elasticsearch-observability.md`
+- `agents/security/github-actions-expert.md`
+- `agents/security/incident-responder.md`
+- `agents/security/jfrog-sec.md`
+- `agents/security/llm-redteam-specialist.md`
+- `agents/security/penetration-tester.md`
+- `agents/security/platform-sre-kubernetes.md`
+- `agents/security/powershell-security-hardening.md`
+- `agents/security/read-only-auditor.md`
+- `agents/security/repo-publication-auditor.md`
+- `agents/security/se-security-reviewer.md`
+- `agents/security/security-auditor.md`
+- `agents/security/security-engineer.md`
+- `agents/security/stackhawk-security-onboarding.md`
+- `agents/security/supply-chain-security.md`
+- `agents/security/tdd-refactor.md`
+- `agents/security/terraform.md`
+- `agents/security/wg-code-sentinel.md`
+
+## agents/ui-analysis
+- `agents/ui-analysis/screenshot-business-analyzer.md`
+- `agents/ui-analysis/screenshot-interaction-analyzer.md`
+- `agents/ui-analysis/screenshot-reviewer.md`
+- `agents/ui-analysis/screenshot-synthesizer.md`
+- `agents/ui-analysis/screenshot-ui-analyzer.md`
+
+## agents/web-tools
+- `agents/web-tools/accessibility.md`
+- `agents/web-tools/aem-frontend-specialist.md`
+- `agents/web-tools/electron-angular-native.md`
+- `agents/web-tools/expert-nextjs-developer.md`
+- `agents/web-tools/expert-react-frontend-engineer.md`
+- `agents/web-tools/java-mcp-expert.md`
+- `agents/web-tools/lingodotdev-i18n.md`
+- `agents/web-tools/nextjs-architecture-expert.md`
+- `agents/web-tools/react-performance-optimizer.md`
+- `agents/web-tools/se-responsible-ai-code.md`
+- `agents/web-tools/search-ai-optimization-expert.md`
+- `agents/web-tools/seo-analyzer.md`
+- `agents/web-tools/url-context-validator.md`
+- `agents/web-tools/url-link-extractor.md`
+- `agents/web-tools/web-accessibility-checker.md`
+- `agents/web-tools/wordpress-master.md`
+
 ## commands/analysis
 - `commands/analysis/supply-chain-audit.md`
 
@@ -684,6 +1174,658 @@ Components from the open-source Claude Code Templates catalog (davila7/claude-co
 - `mcps/web-data/scavio.json`
 - `mcps/web-data/sicex.json`
 
+## mods
+- `mods/tsconfig.json`
+
+## mods/enterprise/admin-capability-lockdown/.claude-plugin
+- `mods/enterprise/admin-capability-lockdown/.claude-plugin/plugin.json`
+
+## mods/enterprise/admin-capability-lockdown/hooks
+- `mods/enterprise/admin-capability-lockdown/hooks/admin-capability-lockdown.ts`
+- `mods/enterprise/admin-capability-lockdown/hooks/hooks.json`
+
+## mods/enterprise/policy-ceiling/.claude-plugin
+- `mods/enterprise/policy-ceiling/.claude-plugin/plugin.json`
+
+## mods/enterprise/policy-ceiling/hooks
+- `mods/enterprise/policy-ceiling/hooks/ceiling.ts`
+- `mods/enterprise/policy-ceiling/hooks/hooks.json`
+- `mods/enterprise/policy-ceiling/hooks/policy-ceiling.tsx`
+
+## mods/enterprise/policy-ceiling/tests
+- `mods/enterprise/policy-ceiling/tests/policy-ceiling.test.tsx`
+
+## mods/enterprise/policy-ceiling/types
+- `mods/enterprise/policy-ceiling/types/index.d.ts`
+
+## mods/games/2048/.claude-plugin
+- `mods/games/2048/.claude-plugin/plugin.json`
+
+## mods/games/2048/hooks
+- `mods/games/2048/hooks/hooks.json`
+- `mods/games/2048/hooks/register.tsx`
+
+## mods/games/2048/hooks/boards
+- `mods/games/2048/hooks/boards/common.tsx`
+- `mods/games/2048/hooks/boards/twenty48.tsx`
+
+## mods/games/2048/hooks/games
+- `mods/games/2048/hooks/games/best.ts`
+- `mods/games/2048/hooks/games/twenty48.ts`
+
+## mods/games/cc-arcade/.claude-plugin
+- `mods/games/cc-arcade/.claude-plugin/plugin.json`
+
+## mods/games/cc-arcade/hooks
+- `mods/games/cc-arcade/hooks/hooks.json`
+- `mods/games/cc-arcade/hooks/register.tsx`
+
+## mods/games/cc-arcade/hooks/boards
+- `mods/games/cc-arcade/hooks/boards/common.tsx`
+- `mods/games/cc-arcade/hooks/boards/doom.tsx`
+- `mods/games/cc-arcade/hooks/boards/flappy.tsx`
+- `mods/games/cc-arcade/hooks/boards/invaders.tsx`
+- `mods/games/cc-arcade/hooks/boards/minesweeper.tsx`
+- `mods/games/cc-arcade/hooks/boards/pet.tsx`
+- `mods/games/cc-arcade/hooks/boards/pong.tsx`
+- `mods/games/cc-arcade/hooks/boards/snake.tsx`
+- `mods/games/cc-arcade/hooks/boards/tetris.tsx`
+- `mods/games/cc-arcade/hooks/boards/twenty48.tsx`
+- `mods/games/cc-arcade/hooks/boards/typing.tsx`
+
+## mods/games/cc-arcade/hooks/games
+- `mods/games/cc-arcade/hooks/games/auto.ts`
+- `mods/games/cc-arcade/hooks/games/best.ts`
+- `mods/games/cc-arcade/hooks/games/doom.ts`
+- `mods/games/cc-arcade/hooks/games/flappy.ts`
+- `mods/games/cc-arcade/hooks/games/invaders.ts`
+- `mods/games/cc-arcade/hooks/games/mines.ts`
+- `mods/games/cc-arcade/hooks/games/pet.ts`
+- `mods/games/cc-arcade/hooks/games/pong.ts`
+- `mods/games/cc-arcade/hooks/games/snake.ts`
+- `mods/games/cc-arcade/hooks/games/tetris.ts`
+- `mods/games/cc-arcade/hooks/games/twenty48.ts`
+- `mods/games/cc-arcade/hooks/games/typing.ts`
+
+## mods/games/cc-arcade/tests
+- `mods/games/cc-arcade/tests/auto.test.ts`
+- `mods/games/cc-arcade/tests/best.test.ts`
+- `mods/games/cc-arcade/tests/doom.test.ts`
+- `mods/games/cc-arcade/tests/games.test.ts`
+- `mods/games/cc-arcade/tests/invaders-pet.test.ts`
+- `mods/games/cc-arcade/tests/more-games.test.ts`
+
+## mods/games/chess/.claude-plugin
+- `mods/games/chess/.claude-plugin/plugin.json`
+
+## mods/games/chess/hooks
+- `mods/games/chess/hooks/chess.ts`
+- `mods/games/chess/hooks/game.ts`
+- `mods/games/chess/hooks/hooks.json`
+- `mods/games/chess/hooks/jev.ts`
+- `mods/games/chess/hooks/register.tsx`
+
+## mods/games/chess/tests
+- `mods/games/chess/tests/chess.test.tsx`
+
+## mods/games/diff-invaders/.claude-plugin
+- `mods/games/diff-invaders/.claude-plugin/plugin.json`
+
+## mods/games/diff-invaders/hooks
+- `mods/games/diff-invaders/hooks/hooks.json`
+- `mods/games/diff-invaders/hooks/register.tsx`
+
+## mods/games/diff-invaders/hooks/boards
+- `mods/games/diff-invaders/hooks/boards/common.tsx`
+- `mods/games/diff-invaders/hooks/boards/invaders.tsx`
+
+## mods/games/diff-invaders/hooks/games
+- `mods/games/diff-invaders/hooks/games/invaders.ts`
+
+## mods/games/diff-invaders/tests
+- `mods/games/diff-invaders/tests/invaders.test.ts`
+
+## mods/games/doom/.claude-plugin
+- `mods/games/doom/.claude-plugin/plugin.json`
+
+## mods/games/doom/hooks
+- `mods/games/doom/hooks/hooks.json`
+- `mods/games/doom/hooks/register.tsx`
+
+## mods/games/doom/hooks/boards
+- `mods/games/doom/hooks/boards/common.tsx`
+- `mods/games/doom/hooks/boards/doom.tsx`
+
+## mods/games/doom/hooks/games
+- `mods/games/doom/hooks/games/best.ts`
+- `mods/games/doom/hooks/games/doom.ts`
+
+## mods/games/flappy/.claude-plugin
+- `mods/games/flappy/.claude-plugin/plugin.json`
+
+## mods/games/flappy/hooks
+- `mods/games/flappy/hooks/hooks.json`
+- `mods/games/flappy/hooks/register.tsx`
+
+## mods/games/flappy/hooks/boards
+- `mods/games/flappy/hooks/boards/common.tsx`
+- `mods/games/flappy/hooks/boards/flappy.tsx`
+
+## mods/games/flappy/hooks/games
+- `mods/games/flappy/hooks/games/best.ts`
+- `mods/games/flappy/hooks/games/flappy.ts`
+
+## mods/games/invaders/.claude-plugin
+- `mods/games/invaders/.claude-plugin/plugin.json`
+
+## mods/games/invaders/hooks
+- `mods/games/invaders/hooks/hooks.json`
+- `mods/games/invaders/hooks/register.tsx`
+
+## mods/games/invaders/hooks/boards
+- `mods/games/invaders/hooks/boards/common.tsx`
+- `mods/games/invaders/hooks/boards/invaders.tsx`
+
+## mods/games/invaders/hooks/games
+- `mods/games/invaders/hooks/games/best.ts`
+- `mods/games/invaders/hooks/games/invaders.ts`
+
+## mods/games/minesweeper/.claude-plugin
+- `mods/games/minesweeper/.claude-plugin/plugin.json`
+
+## mods/games/minesweeper/hooks
+- `mods/games/minesweeper/hooks/hooks.json`
+- `mods/games/minesweeper/hooks/register.tsx`
+
+## mods/games/minesweeper/hooks/boards
+- `mods/games/minesweeper/hooks/boards/common.tsx`
+- `mods/games/minesweeper/hooks/boards/minesweeper.tsx`
+
+## mods/games/minesweeper/hooks/games
+- `mods/games/minesweeper/hooks/games/best.ts`
+- `mods/games/minesweeper/hooks/games/mines.ts`
+
+## mods/games/pacman/.claude-plugin
+- `mods/games/pacman/.claude-plugin/plugin.json`
+
+## mods/games/pacman/hooks
+- `mods/games/pacman/hooks/hooks.json`
+- `mods/games/pacman/hooks/register.tsx`
+
+## mods/games/pacman/hooks/boards
+- `mods/games/pacman/hooks/boards/common.tsx`
+- `mods/games/pacman/hooks/boards/pacman.tsx`
+
+## mods/games/pacman/hooks/games
+- `mods/games/pacman/hooks/games/pacman.ts`
+
+## mods/games/pacman/tests
+- `mods/games/pacman/tests/pacman.test.ts`
+
+## mods/games/pet/.claude-plugin
+- `mods/games/pet/.claude-plugin/plugin.json`
+
+## mods/games/pet/hooks
+- `mods/games/pet/hooks/hooks.json`
+- `mods/games/pet/hooks/register.tsx`
+
+## mods/games/pet/hooks/boards
+- `mods/games/pet/hooks/boards/pet.tsx`
+
+## mods/games/pet/hooks/games
+- `mods/games/pet/hooks/games/pet.ts`
+
+## mods/games/pong/.claude-plugin
+- `mods/games/pong/.claude-plugin/plugin.json`
+
+## mods/games/pong/hooks
+- `mods/games/pong/hooks/hooks.json`
+- `mods/games/pong/hooks/register.tsx`
+
+## mods/games/pong/hooks/boards
+- `mods/games/pong/hooks/boards/common.tsx`
+- `mods/games/pong/hooks/boards/pong.tsx`
+
+## mods/games/pong/hooks/games
+- `mods/games/pong/hooks/games/best.ts`
+- `mods/games/pong/hooks/games/pong.ts`
+
+## mods/games/snake/.claude-plugin
+- `mods/games/snake/.claude-plugin/plugin.json`
+
+## mods/games/snake/hooks
+- `mods/games/snake/hooks/hooks.json`
+- `mods/games/snake/hooks/register.tsx`
+
+## mods/games/snake/hooks/boards
+- `mods/games/snake/hooks/boards/common.tsx`
+- `mods/games/snake/hooks/boards/snake.tsx`
+
+## mods/games/snake/hooks/games
+- `mods/games/snake/hooks/games/best.ts`
+- `mods/games/snake/hooks/games/snake.ts`
+
+## mods/games/tetris/.claude-plugin
+- `mods/games/tetris/.claude-plugin/plugin.json`
+
+## mods/games/tetris/hooks
+- `mods/games/tetris/hooks/hooks.json`
+- `mods/games/tetris/hooks/register.tsx`
+
+## mods/games/tetris/hooks/boards
+- `mods/games/tetris/hooks/boards/common.tsx`
+- `mods/games/tetris/hooks/boards/tetris.tsx`
+
+## mods/games/tetris/hooks/games
+- `mods/games/tetris/hooks/games/best.ts`
+- `mods/games/tetris/hooks/games/tetris.ts`
+
+## mods/games/tool-defense/.claude-plugin
+- `mods/games/tool-defense/.claude-plugin/plugin.json`
+
+## mods/games/tool-defense/hooks
+- `mods/games/tool-defense/hooks/hooks.json`
+- `mods/games/tool-defense/hooks/register.tsx`
+
+## mods/games/tool-defense/hooks/boards
+- `mods/games/tool-defense/hooks/boards/common.tsx`
+- `mods/games/tool-defense/hooks/boards/defense.tsx`
+
+## mods/games/tool-defense/hooks/games
+- `mods/games/tool-defense/hooks/games/defense.ts`
+
+## mods/games/tool-defense/tests
+- `mods/games/tool-defense/tests/defense.test.ts`
+
+## mods/games/typing-test/.claude-plugin
+- `mods/games/typing-test/.claude-plugin/plugin.json`
+
+## mods/games/typing-test/hooks
+- `mods/games/typing-test/hooks/hooks.json`
+- `mods/games/typing-test/hooks/register.tsx`
+
+## mods/games/typing-test/hooks/boards
+- `mods/games/typing-test/hooks/boards/common.tsx`
+- `mods/games/typing-test/hooks/boards/typing.tsx`
+
+## mods/games/typing-test/hooks/games
+- `mods/games/typing-test/hooks/games/best.ts`
+- `mods/games/typing-test/hooks/games/typing.ts`
+
+## mods/integrations/bluesky-feed/.claude-plugin
+- `mods/integrations/bluesky-feed/.claude-plugin/plugin.json`
+
+## mods/integrations/bluesky-feed/hooks
+- `mods/integrations/bluesky-feed/hooks/bluesky-feed.tsx`
+- `mods/integrations/bluesky-feed/hooks/bsky-api.ts`
+- `mods/integrations/bluesky-feed/hooks/hooks.json`
+
+## mods/integrations/bluesky-feed/tests
+- `mods/integrations/bluesky-feed/tests/bluesky-feed.test.tsx`
+
+## mods/integrations/linear-tickets/.claude-plugin
+- `mods/integrations/linear-tickets/.claude-plugin/plugin.json`
+
+## mods/integrations/linear-tickets/hooks
+- `mods/integrations/linear-tickets/hooks/hooks.json`
+- `mods/integrations/linear-tickets/hooks/linear-api.ts`
+- `mods/integrations/linear-tickets/hooks/linear-tickets.tsx`
+
+## mods/integrations/linear-tickets/tests
+- `mods/integrations/linear-tickets/tests/linear-tickets.test.tsx`
+
+## mods/integrations/neon-branch-per-session/.claude-plugin
+- `mods/integrations/neon-branch-per-session/.claude-plugin/plugin.json`
+
+## mods/integrations/neon-branch-per-session/hooks
+- `mods/integrations/neon-branch-per-session/hooks/hooks.json`
+- `mods/integrations/neon-branch-per-session/hooks/neon-api.ts`
+- `mods/integrations/neon-branch-per-session/hooks/neon-branch-per-session.ts`
+
+## mods/integrations/neon-branch-per-session/tests
+- `mods/integrations/neon-branch-per-session/tests/neon-branch-per-session.test.ts`
+
+## mods/integrations/pi-agent-for-claude/.claude-plugin
+- `mods/integrations/pi-agent-for-claude/.claude-plugin/plugin.json`
+
+## mods/integrations/pi-agent-for-claude/agents
+- `mods/integrations/pi-agent-for-claude/agents/pi.md`
+
+## mods/integrations/pi-agent-for-claude/hooks
+- `mods/integrations/pi-agent-for-claude/hooks/hooks.json`
+- `mods/integrations/pi-agent-for-claude/hooks/register.ts`
+
+## mods/integrations/vercel-deploys/.claude-plugin
+- `mods/integrations/vercel-deploys/.claude-plugin/plugin.json`
+
+## mods/integrations/vercel-deploys/hooks
+- `mods/integrations/vercel-deploys/hooks/hooks.json`
+- `mods/integrations/vercel-deploys/hooks/vercel-api.ts`
+- `mods/integrations/vercel-deploys/hooks/vercel-deploys.tsx`
+
+## mods/integrations/vercel-deploys/tests
+- `mods/integrations/vercel-deploys/tests/vercel-deploys.test.tsx`
+
+## mods/integrations/websearch-to-exa/.claude-plugin
+- `mods/integrations/websearch-to-exa/.claude-plugin/plugin.json`
+
+## mods/integrations/websearch-to-exa/hooks
+- `mods/integrations/websearch-to-exa/hooks/hooks.json`
+- `mods/integrations/websearch-to-exa/hooks/websearch-to-exa.ts`
+
+## mods/observability/prompt-cache-control/.claude-plugin
+- `mods/observability/prompt-cache-control/.claude-plugin/plugin.json`
+
+## mods/observability/prompt-cache-control/hooks
+- `mods/observability/prompt-cache-control/hooks/cache.ts`
+- `mods/observability/prompt-cache-control/hooks/hooks.json`
+- `mods/observability/prompt-cache-control/hooks/prompt-cache-control.tsx`
+
+## mods/observability/prompt-cache-control/tests
+- `mods/observability/prompt-cache-control/tests/cache.test.tsx`
+
+## mods/observability/universal-audit-log/.claude-plugin
+- `mods/observability/universal-audit-log/.claude-plugin/plugin.json`
+
+## mods/observability/universal-audit-log/hooks
+- `mods/observability/universal-audit-log/hooks/hooks.json`
+- `mods/observability/universal-audit-log/hooks/universal-audit-log.ts`
+
+## mods/productivity/aitmpl/.claude-plugin
+- `mods/productivity/aitmpl/.claude-plugin/plugin.json`
+
+## mods/productivity/aitmpl/hooks
+- `mods/productivity/aitmpl/hooks/catalog.ts`
+- `mods/productivity/aitmpl/hooks/hooks.json`
+- `mods/productivity/aitmpl/hooks/register.tsx`
+
+## mods/productivity/aitmpl/tests
+- `mods/productivity/aitmpl/tests/catalog.test.ts`
+- `mods/productivity/aitmpl/tests/sidebar.test.tsx`
+
+## mods/productivity/jev-model-router/.claude-plugin
+- `mods/productivity/jev-model-router/.claude-plugin/plugin.json`
+
+## mods/productivity/jev-model-router/hooks
+- `mods/productivity/jev-model-router/hooks/hooks.json`
+- `mods/productivity/jev-model-router/hooks/jev-model-router.ts`
+- `mods/productivity/jev-model-router/hooks/policy.ts`
+
+## mods/productivity/jev-model-router/tests
+- `mods/productivity/jev-model-router/tests/policy.test.ts`
+
+## mods/productivity/jev-skill-suggestion/.claude-plugin
+- `mods/productivity/jev-skill-suggestion/.claude-plugin/plugin.json`
+
+## mods/productivity/jev-skill-suggestion/commands
+- `mods/productivity/jev-skill-suggestion/commands/setup.md`
+
+## mods/productivity/jev-skill-suggestion/hooks
+- `mods/productivity/jev-skill-suggestion/hooks/hooks.json`
+- `mods/productivity/jev-skill-suggestion/hooks/jev-skill-suggestion.ts`
+- `mods/productivity/jev-skill-suggestion/hooks/policy.ts`
+
+## mods/productivity/jev-skill-suggestion/tests
+- `mods/productivity/jev-skill-suggestion/tests/policy.test.ts`
+
+## mods/productivity/jev-skill-typeahead/.claude-plugin
+- `mods/productivity/jev-skill-typeahead/.claude-plugin/plugin.json`
+
+## mods/productivity/jev-skill-typeahead/hooks
+- `mods/productivity/jev-skill-typeahead/hooks/hooks.json`
+- `mods/productivity/jev-skill-typeahead/hooks/jev.ts`
+- `mods/productivity/jev-skill-typeahead/hooks/policy.ts`
+- `mods/productivity/jev-skill-typeahead/hooks/register.tsx`
+
+## mods/productivity/jev-skill-typeahead/tests
+- `mods/productivity/jev-skill-typeahead/tests/band.test.tsx`
+- `mods/productivity/jev-skill-typeahead/tests/policy.test.ts`
+
+## mods/productivity/jev-skill-typeahead/types
+- `mods/productivity/jev-skill-typeahead/types/index.d.ts`
+
+## mods/productivity/npm-to-pnpm-rewriter/.claude-plugin
+- `mods/productivity/npm-to-pnpm-rewriter/.claude-plugin/plugin.json`
+
+## mods/productivity/npm-to-pnpm-rewriter/hooks
+- `mods/productivity/npm-to-pnpm-rewriter/hooks/hooks.json`
+- `mods/productivity/npm-to-pnpm-rewriter/hooks/npm-to-pnpm-rewriter.ts`
+
+## mods/productivity/session-chats/.claude-plugin
+- `mods/productivity/session-chats/.claude-plugin/plugin.json`
+
+## mods/productivity/session-chats/hooks
+- `mods/productivity/session-chats/hooks/chats.ts`
+- `mods/productivity/session-chats/hooks/graph.ts`
+- `mods/productivity/session-chats/hooks/hooks.json`
+- `mods/productivity/session-chats/hooks/session-chats.tsx`
+
+## mods/productivity/session-chats/tests
+- `mods/productivity/session-chats/tests/session-chats.test.tsx`
+
+## mods/productivity/session-time-machine/.claude-plugin
+- `mods/productivity/session-time-machine/.claude-plugin/plugin.json`
+
+## mods/productivity/session-time-machine/hooks
+- `mods/productivity/session-time-machine/hooks/hooks.json`
+- `mods/productivity/session-time-machine/hooks/register.tsx`
+- `mods/productivity/session-time-machine/hooks/snapshots.ts`
+- `mods/productivity/session-time-machine/hooks/transcript.ts`
+
+## mods/productivity/session-time-machine/tests
+- `mods/productivity/session-time-machine/tests/session-time-machine.test.ts`
+
+## mods/productivity/subagent-tuner/.claude-plugin
+- `mods/productivity/subagent-tuner/.claude-plugin/plugin.json`
+
+## mods/productivity/subagent-tuner/hooks
+- `mods/productivity/subagent-tuner/hooks/auto.test.ts`
+- `mods/productivity/subagent-tuner/hooks/band.test.ts`
+- `mods/productivity/subagent-tuner/hooks/chain.test.ts`
+- `mods/productivity/subagent-tuner/hooks/dialog.ts`
+- `mods/productivity/subagent-tuner/hooks/harness.ts`
+- `mods/productivity/subagent-tuner/hooks/hooks.json`
+- `mods/productivity/subagent-tuner/hooks/pane-view.tsx`
+- `mods/productivity/subagent-tuner/hooks/pane.test.ts`
+- `mods/productivity/subagent-tuner/hooks/persistence.test.ts`
+- `mods/productivity/subagent-tuner/hooks/recommend.test.ts`
+- `mods/productivity/subagent-tuner/hooks/recommend.ts`
+- `mods/productivity/subagent-tuner/hooks/register.tsx`
+- `mods/productivity/subagent-tuner/hooks/stack-band.test.ts`
+- `mods/productivity/subagent-tuner/hooks/stack.test.ts`
+- `mods/productivity/subagent-tuner/hooks/stack.ts`
+- `mods/productivity/subagent-tuner/hooks/state.ts`
+- `mods/productivity/subagent-tuner/hooks/view.tsx`
+
+## mods/productivity/subagent-tuner/types
+- `mods/productivity/subagent-tuner/types/index.d.ts`
+
+## mods/productivity/ultra-config/.claude-plugin
+- `mods/productivity/ultra-config/.claude-plugin/plugin.json`
+
+## mods/productivity/ultra-config/hooks
+- `mods/productivity/ultra-config/hooks/hooks.json`
+- `mods/productivity/ultra-config/hooks/profiles.ts`
+- `mods/productivity/ultra-config/hooks/register.tsx`
+
+## mods/productivity/ultra-config/tests
+- `mods/productivity/ultra-config/tests/ultra-config.test.tsx`
+
+## mods/productivity/ultra-config/types
+- `mods/productivity/ultra-config/types/index.d.ts`
+
+## mods/productivity/webfetch-cache/.claude-plugin
+- `mods/productivity/webfetch-cache/.claude-plugin/plugin.json`
+
+## mods/productivity/webfetch-cache/hooks
+- `mods/productivity/webfetch-cache/hooks/hooks.json`
+- `mods/productivity/webfetch-cache/hooks/webfetch-cache.ts`
+
+## mods/productivity/webfetch-cache/tests
+- `mods/productivity/webfetch-cache/tests/webfetch-cache.test.ts`
+
+## mods/security/block-destructive-commands/.claude-plugin
+- `mods/security/block-destructive-commands/.claude-plugin/plugin.json`
+
+## mods/security/block-destructive-commands/hooks
+- `mods/security/block-destructive-commands/hooks/block-destructive-commands.ts`
+- `mods/security/block-destructive-commands/hooks/hooks.json`
+
+## mods/security/block-destructive-commands/tests
+- `mods/security/block-destructive-commands/tests/block-destructive-commands.test.ts`
+
+## mods/security/human-gate/.claude-plugin
+- `mods/security/human-gate/.claude-plugin/plugin.json`
+
+## mods/security/human-gate/hooks
+- `mods/security/human-gate/hooks/hooks.json`
+- `mods/security/human-gate/hooks/human-gate.ts`
+- `mods/security/human-gate/hooks/rules.ts`
+
+## mods/security/human-gate/tests
+- `mods/security/human-gate/tests/human-gate.test.ts`
+
+## mods/security/jev-auto-mode/.claude-plugin
+- `mods/security/jev-auto-mode/.claude-plugin/plugin.json`
+
+## mods/security/jev-auto-mode/examples
+- `mods/security/jev-auto-mode/examples/jev-auto-mode.json`
+
+## mods/security/jev-auto-mode/hooks
+- `mods/security/jev-auto-mode/hooks/hooks.json`
+- `mods/security/jev-auto-mode/hooks/jev-auto-mode.ts`
+- `mods/security/jev-auto-mode/hooks/judge.ts`
+- `mods/security/jev-auto-mode/hooks/rules.ts`
+
+## mods/security/jev-auto-mode/tests
+- `mods/security/jev-auto-mode/tests/jev-auto-mode.test.ts`
+- `mods/security/jev-auto-mode/tests/rules.test.ts`
+
+## mods/security/jev-guardrails/.claude-plugin
+- `mods/security/jev-guardrails/.claude-plugin/plugin.json`
+
+## mods/security/jev-guardrails/hooks
+- `mods/security/jev-guardrails/hooks/hooks.json`
+- `mods/security/jev-guardrails/hooks/jev-guardrails.ts`
+- `mods/security/jev-guardrails/hooks/policy.ts`
+
+## mods/security/jev-guardrails/tests
+- `mods/security/jev-guardrails/tests/policy.test.ts`
+
+## mods/security/jev-vercel-sandbox/.claude-plugin
+- `mods/security/jev-vercel-sandbox/.claude-plugin/plugin.json`
+
+## mods/security/jev-vercel-sandbox/hooks
+- `mods/security/jev-vercel-sandbox/hooks/hooks.json`
+- `mods/security/jev-vercel-sandbox/hooks/jev-vercel-sandbox.tsx`
+- `mods/security/jev-vercel-sandbox/hooks/judge.ts`
+- `mods/security/jev-vercel-sandbox/hooks/vercel.ts`
+- `mods/security/jev-vercel-sandbox/hooks/workspace.ts`
+
+## mods/security/jev-vercel-sandbox/tests
+- `mods/security/jev-vercel-sandbox/tests/jev-vercel-sandbox.test.tsx`
+- `mods/security/jev-vercel-sandbox/tests/judge.test.ts`
+- `mods/security/jev-vercel-sandbox/tests/workspace.test.ts`
+
+## mods/security/large-edit-confirmation/.claude-plugin
+- `mods/security/large-edit-confirmation/.claude-plugin/plugin.json`
+
+## mods/security/large-edit-confirmation/hooks
+- `mods/security/large-edit-confirmation/hooks/hooks.json`
+- `mods/security/large-edit-confirmation/hooks/large-edit-confirmation.ts`
+
+## mods/security/protected-paths-guard/.claude-plugin
+- `mods/security/protected-paths-guard/.claude-plugin/plugin.json`
+
+## mods/security/protected-paths-guard/hooks
+- `mods/security/protected-paths-guard/hooks/hooks.json`
+- `mods/security/protected-paths-guard/hooks/protected-paths-guard.ts`
+
+## mods/security/secret-redactor/.claude-plugin
+- `mods/security/secret-redactor/.claude-plugin/plugin.json`
+
+## mods/security/secret-redactor/hooks
+- `mods/security/secret-redactor/hooks/hooks.json`
+- `mods/security/secret-redactor/hooks/secret-redactor.ts`
+
+## mods/security/secret-redactor/tests
+- `mods/security/secret-redactor/tests/secret-redactor.test.ts`
+
+## mods/types
+- `mods/types/claude-code.d.ts`
+
+## mods/ui/agent-flow/.claude-plugin
+- `mods/ui/agent-flow/.claude-plugin/plugin.json`
+
+## mods/ui/agent-flow/hooks
+- `mods/ui/agent-flow/hooks/agent-flow.tsx`
+- `mods/ui/agent-flow/hooks/flow.ts`
+- `mods/ui/agent-flow/hooks/hooks.json`
+
+## mods/ui/agent-flow/tests
+- `mods/ui/agent-flow/tests/agent-flow.test.tsx`
+
+## mods/ui/git-sidebar/.claude-plugin
+- `mods/ui/git-sidebar/.claude-plugin/plugin.json`
+
+## mods/ui/git-sidebar/hooks
+- `mods/ui/git-sidebar/hooks/git-sidebar.tsx`
+- `mods/ui/git-sidebar/hooks/git.ts`
+- `mods/ui/git-sidebar/hooks/hooks.json`
+
+## mods/ui/git-sidebar/tests
+- `mods/ui/git-sidebar/tests/git-sidebar.test.tsx`
+
+## mods/ui/live-preview/.claude-plugin
+- `mods/ui/live-preview/.claude-plugin/plugin.json`
+
+## mods/ui/live-preview/hooks
+- `mods/ui/live-preview/hooks/capture.ts`
+- `mods/ui/live-preview/hooks/hooks.json`
+- `mods/ui/live-preview/hooks/live-preview.tsx`
+
+## mods/ui/live-preview/tests
+- `mods/ui/live-preview/tests/live-preview.test.tsx`
+
+## mods/ui/spooky-season/.claude-plugin
+- `mods/ui/spooky-season/.claude-plugin/plugin.json`
+
+## mods/ui/spooky-season/hooks
+- `mods/ui/spooky-season/hooks/hooks.json`
+- `mods/ui/spooky-season/hooks/spooky-season.tsx`
+
+## mods/ui/spooky-season/tests
+- `mods/ui/spooky-season/tests/spooky-season.test.tsx`
+
+## mods/ui/stack-viewer/.claude-plugin
+- `mods/ui/stack-viewer/.claude-plugin/plugin.json`
+
+## mods/ui/stack-viewer/hooks
+- `mods/ui/stack-viewer/hooks/hooks.json`
+- `mods/ui/stack-viewer/hooks/stack-viewer.tsx`
+- `mods/ui/stack-viewer/hooks/stack.ts`
+
+## mods/ui/stack-viewer/tests
+- `mods/ui/stack-viewer/tests/stack-viewer.test.tsx`
+
+## mods/ui/tool-timing-badge/.claude-plugin
+- `mods/ui/tool-timing-badge/.claude-plugin/plugin.json`
+
+## mods/ui/tool-timing-badge/hooks
+- `mods/ui/tool-timing-badge/hooks/hooks.json`
+- `mods/ui/tool-timing-badge/hooks/tool-timing-badge.tsx`
+
+## mods/ui/turn-inspector/.claude-plugin
+- `mods/ui/turn-inspector/.claude-plugin/plugin.json`
+
+## mods/ui/turn-inspector/hooks
+- `mods/ui/turn-inspector/hooks/hooks.json`
+- `mods/ui/turn-inspector/hooks/turn-inspector.tsx`
+- `mods/ui/turn-inspector/hooks/turns.ts`
+
+## mods/ui/turn-inspector/tests
+- `mods/ui/turn-inspector/tests/turn-inspector.test.tsx`
+
 ## plugins/productivity/champion-kit
 - `plugins/productivity/champion-kit/source.json`
 
@@ -837,6 +1979,143 @@ Components from the open-source Claude Code Templates catalog (davila7/claude-co
 ## skills/analytics/google-analytics/scripts
 - `skills/analytics/google-analytics/scripts/analyze.py`
 - `skills/analytics/google-analytics/scripts/ga_client.py`
+
+## skills/database/alloydb-basics
+- `skills/database/alloydb-basics/SKILL.md`
+
+## skills/database/alloydb-basics/references
+- `skills/database/alloydb-basics/references/cli-usage.md`
+- `skills/database/alloydb-basics/references/client-library-usage.md`
+- `skills/database/alloydb-basics/references/core-concepts.md`
+- `skills/database/alloydb-basics/references/iac-usage.md`
+- `skills/database/alloydb-basics/references/iam-security.md`
+- `skills/database/alloydb-basics/references/mcp-usage.md`
+
+## skills/database/bigquery-basics
+- `skills/database/bigquery-basics/SKILL.md`
+
+## skills/database/bigquery-basics/references
+- `skills/database/bigquery-basics/references/cli-usage.md`
+- `skills/database/bigquery-basics/references/client-library-usage.md`
+- `skills/database/bigquery-basics/references/core-concepts.md`
+- `skills/database/bigquery-basics/references/iac-usage.md`
+- `skills/database/bigquery-basics/references/iam-security.md`
+- `skills/database/bigquery-basics/references/mcp-usage.md`
+
+## skills/database/cloud-sql-basics
+- `skills/database/cloud-sql-basics/SKILL.md`
+
+## skills/database/cloud-sql-basics/references
+- `skills/database/cloud-sql-basics/references/cli-usage.md`
+- `skills/database/cloud-sql-basics/references/client-library-usage.md`
+- `skills/database/cloud-sql-basics/references/core-concepts.md`
+- `skills/database/cloud-sql-basics/references/iac-usage.md`
+- `skills/database/cloud-sql-basics/references/iam-security.md`
+- `skills/database/cloud-sql-basics/references/mcp-usage.md`
+
+## skills/database/database-architect
+- `skills/database/database-architect/SKILL.md`
+
+## skills/database/database-migration
+- `skills/database/database-migration/SKILL.md`
+
+## skills/database/database-optimizer
+- `skills/database/database-optimizer/SKILL.md`
+
+## skills/database/neon-instagres
+- `skills/database/neon-instagres/SKILL.md`
+
+## skills/database/postgres-schema-design
+- `skills/database/postgres-schema-design/LICENSE.txt`
+- `skills/database/postgres-schema-design/SKILL.md`
+
+## skills/database/postgresql
+- `skills/database/postgresql/SKILL.md`
+
+## skills/database/postgresql-optimization
+- `skills/database/postgresql-optimization/SKILL.md`
+
+## skills/database/sql-pro
+- `skills/database/sql-pro/SKILL.md`
+
+## skills/database/supabase-postgres-best-practices
+- `skills/database/supabase-postgres-best-practices/AGENTS.md`
+- `skills/database/supabase-postgres-best-practices/SKILL.md`
+- `skills/database/supabase-postgres-best-practices/metadata.json`
+
+## skills/database/supabase-postgres-best-practices/rules
+- `skills/database/supabase-postgres-best-practices/rules/_contributing.md`
+- `skills/database/supabase-postgres-best-practices/rules/_sections.md`
+- `skills/database/supabase-postgres-best-practices/rules/_template.md`
+- `skills/database/supabase-postgres-best-practices/rules/advanced-full-text-search.md`
+- `skills/database/supabase-postgres-best-practices/rules/advanced-jsonb-indexing.md`
+- `skills/database/supabase-postgres-best-practices/rules/conn-idle-timeout.md`
+- `skills/database/supabase-postgres-best-practices/rules/conn-limits.md`
+- `skills/database/supabase-postgres-best-practices/rules/conn-pooling.md`
+- `skills/database/supabase-postgres-best-practices/rules/conn-prepared-statements.md`
+- `skills/database/supabase-postgres-best-practices/rules/data-batch-inserts.md`
+- `skills/database/supabase-postgres-best-practices/rules/data-n-plus-one.md`
+- `skills/database/supabase-postgres-best-practices/rules/data-pagination.md`
+- `skills/database/supabase-postgres-best-practices/rules/data-upsert.md`
+- `skills/database/supabase-postgres-best-practices/rules/lock-advisory.md`
+- `skills/database/supabase-postgres-best-practices/rules/lock-deadlock-prevention.md`
+- `skills/database/supabase-postgres-best-practices/rules/lock-short-transactions.md`
+- `skills/database/supabase-postgres-best-practices/rules/lock-skip-locked.md`
+- `skills/database/supabase-postgres-best-practices/rules/monitor-explain-analyze.md`
+- `skills/database/supabase-postgres-best-practices/rules/monitor-pg-stat-statements.md`
+- `skills/database/supabase-postgres-best-practices/rules/monitor-vacuum-analyze.md`
+- `skills/database/supabase-postgres-best-practices/rules/query-composite-indexes.md`
+- `skills/database/supabase-postgres-best-practices/rules/query-covering-indexes.md`
+- `skills/database/supabase-postgres-best-practices/rules/query-index-types.md`
+- `skills/database/supabase-postgres-best-practices/rules/query-missing-indexes.md`
+- `skills/database/supabase-postgres-best-practices/rules/query-partial-indexes.md`
+- `skills/database/supabase-postgres-best-practices/rules/schema-data-types.md`
+- `skills/database/supabase-postgres-best-practices/rules/schema-foreign-key-indexes.md`
+- `skills/database/supabase-postgres-best-practices/rules/schema-lowercase-identifiers.md`
+- `skills/database/supabase-postgres-best-practices/rules/schema-partitioning.md`
+- `skills/database/supabase-postgres-best-practices/rules/schema-primary-keys.md`
+- `skills/database/supabase-postgres-best-practices/rules/security-privileges.md`
+- `skills/database/supabase-postgres-best-practices/rules/security-rls-basics.md`
+- `skills/database/supabase-postgres-best-practices/rules/security-rls-performance.md`
+
+## skills/database/using-neon
+- `skills/database/using-neon/SKILL.md`
+
+## skills/database/using-neon/references
+- `skills/database/using-neon/references/connection-methods.md`
+- `skills/database/using-neon/references/devtools.md`
+- `skills/database/using-neon/references/features.md`
+- `skills/database/using-neon/references/getting-started.md`
+- `skills/database/using-neon/references/neon-auth.md`
+- `skills/database/using-neon/references/neon-cli.md`
+- `skills/database/using-neon/references/neon-drizzle.md`
+- `skills/database/using-neon/references/neon-js.md`
+- `skills/database/using-neon/references/neon-platform-api.md`
+- `skills/database/using-neon/references/neon-python-sdk.md`
+- `skills/database/using-neon/references/neon-serverless.md`
+- `skills/database/using-neon/references/neon-typescript-sdk.md`
+- `skills/database/using-neon/references/referencing-docs.md`
+- `skills/database/using-neon/references/what-is-neon.md`
+
+## skills/database/using-neon/references/neon-auth
+- `skills/database/using-neon/references/neon-auth/auth-methods.md`
+- `skills/database/using-neon/references/neon-auth/common-mistakes.md`
+- `skills/database/using-neon/references/neon-auth/setup-nextjs.md`
+- `skills/database/using-neon/references/neon-auth/setup-react-spa.md`
+- `skills/database/using-neon/references/neon-auth/ui-components.md`
+
+## skills/database/using-neon/references/neon-js
+- `skills/database/using-neon/references/neon-js/common-mistakes.md`
+- `skills/database/using-neon/references/neon-js/data-api.md`
+
+## skills/database/using-neon/references/neon-rest-api
+- `skills/database/using-neon/references/neon-rest-api/branches.md`
+- `skills/database/using-neon/references/neon-rest-api/endpoints.md`
+- `skills/database/using-neon/references/neon-rest-api/guidelines.md`
+- `skills/database/using-neon/references/neon-rest-api/keys.md`
+- `skills/database/using-neon/references/neon-rest-api/operations.md`
+- `skills/database/using-neon/references/neon-rest-api/organizations.md`
+- `skills/database/using-neon/references/neon-rest-api/projects.md`
 
 ## skills/git/babysit-pr
 - `skills/git/babysit-pr/source.json`
@@ -1094,6 +2373,199 @@ Components from the open-source Claude Code Templates catalog (davila7/claude-co
 
 ## skills/web-data/search/scripts
 - `skills/web-data/search/scripts/search.sh`
+
+## skills/web-development/astro
+- `skills/web-development/astro/SKILL.md`
+
+## skills/web-development/blockrun
+- `skills/web-development/blockrun/SKILL.md`
+
+## skills/web-development/building-blog
+- `skills/web-development/building-blog/SKILL.md`
+- `skills/web-development/building-blog/blog-image-style-guide.md`
+- `skills/web-development/building-blog/blog-technical-requirements.md`
+
+## skills/web-development/chrome-extension-developer
+- `skills/web-development/chrome-extension-developer/SKILL.md`
+
+## skills/web-development/drizzle-orm-expert
+- `skills/web-development/drizzle-orm-expert/SKILL.md`
+
+## skills/web-development/electron-development
+- `skills/web-development/electron-development/SKILL.md`
+
+## skills/web-development/exa-search
+- `skills/web-development/exa-search/SKILL.md`
+
+## skills/web-development/expo-deployment
+- `skills/web-development/expo-deployment/SKILL.md`
+
+## skills/web-development/fastapi-endpoint
+- `skills/web-development/fastapi-endpoint/SKILL.md`
+
+## skills/web-development/firecrawl-scraper
+- `skills/web-development/firecrawl-scraper/SKILL.md`
+
+## skills/web-development/hono
+- `skills/web-development/hono/SKILL.md`
+
+## skills/web-development/nextjs-app-router-patterns
+- `skills/web-development/nextjs-app-router-patterns/SKILL.md`
+
+## skills/web-development/nextjs-app-router-patterns/resources
+- `skills/web-development/nextjs-app-router-patterns/resources/implementation-playbook.md`
+
+## skills/web-development/progressive-web-app
+- `skills/web-development/progressive-web-app/SKILL.md`
+
+## skills/web-development/react-best-practices
+- `skills/web-development/react-best-practices/SKILL.md`
+
+## skills/web-development/react-best-practices/references
+- `skills/web-development/react-best-practices/references/react-performance-guidelines.md`
+
+## skills/web-development/react-best-practices/references/rules
+- `skills/web-development/react-best-practices/references/rules/_sections.md`
+- `skills/web-development/react-best-practices/references/rules/_template.md`
+- `skills/web-development/react-best-practices/references/rules/advanced-event-handler-refs.md`
+- `skills/web-development/react-best-practices/references/rules/advanced-use-latest.md`
+- `skills/web-development/react-best-practices/references/rules/async-api-routes.md`
+- `skills/web-development/react-best-practices/references/rules/async-defer-await.md`
+- `skills/web-development/react-best-practices/references/rules/async-dependencies.md`
+- `skills/web-development/react-best-practices/references/rules/async-parallel.md`
+- `skills/web-development/react-best-practices/references/rules/async-suspense-boundaries.md`
+- `skills/web-development/react-best-practices/references/rules/bundle-barrel-imports.md`
+- `skills/web-development/react-best-practices/references/rules/bundle-conditional.md`
+- `skills/web-development/react-best-practices/references/rules/bundle-defer-third-party.md`
+- `skills/web-development/react-best-practices/references/rules/bundle-dynamic-imports.md`
+- `skills/web-development/react-best-practices/references/rules/bundle-preload.md`
+- `skills/web-development/react-best-practices/references/rules/client-event-listeners.md`
+- `skills/web-development/react-best-practices/references/rules/client-swr-dedup.md`
+- `skills/web-development/react-best-practices/references/rules/download_rules.sh`
+- `skills/web-development/react-best-practices/references/rules/js-batch-dom-css.md`
+- `skills/web-development/react-best-practices/references/rules/js-cache-function-results.md`
+- `skills/web-development/react-best-practices/references/rules/js-cache-property-access.md`
+- `skills/web-development/react-best-practices/references/rules/js-cache-storage.md`
+- `skills/web-development/react-best-practices/references/rules/js-combine-iterations.md`
+- `skills/web-development/react-best-practices/references/rules/js-early-exit.md`
+- `skills/web-development/react-best-practices/references/rules/js-hoist-regexp.md`
+- `skills/web-development/react-best-practices/references/rules/js-index-maps.md`
+- `skills/web-development/react-best-practices/references/rules/js-length-check-first.md`
+- `skills/web-development/react-best-practices/references/rules/js-min-max-loop.md`
+- `skills/web-development/react-best-practices/references/rules/js-set-map-lookups.md`
+- `skills/web-development/react-best-practices/references/rules/js-tosorted-immutable.md`
+- `skills/web-development/react-best-practices/references/rules/rendering-activity.md`
+- `skills/web-development/react-best-practices/references/rules/rendering-animate-svg-wrapper.md`
+- `skills/web-development/react-best-practices/references/rules/rendering-conditional-render.md`
+- `skills/web-development/react-best-practices/references/rules/rendering-content-visibility.md`
+- `skills/web-development/react-best-practices/references/rules/rendering-hoist-jsx.md`
+- `skills/web-development/react-best-practices/references/rules/rendering-hydration-no-flicker.md`
+- `skills/web-development/react-best-practices/references/rules/rendering-svg-precision.md`
+- `skills/web-development/react-best-practices/references/rules/rerender-defer-reads.md`
+- `skills/web-development/react-best-practices/references/rules/rerender-dependencies.md`
+- `skills/web-development/react-best-practices/references/rules/rerender-derived-state.md`
+- `skills/web-development/react-best-practices/references/rules/rerender-lazy-state-init.md`
+- `skills/web-development/react-best-practices/references/rules/rerender-memo.md`
+- `skills/web-development/react-best-practices/references/rules/rerender-transitions.md`
+- `skills/web-development/react-best-practices/references/rules/server-cache-lru.md`
+- `skills/web-development/react-best-practices/references/rules/server-cache-react.md`
+- `skills/web-development/react-best-practices/references/rules/server-parallel-fetching.md`
+- `skills/web-development/react-best-practices/references/rules/server-serialization.md`
+
+## skills/web-development/react-component-performance
+- `skills/web-development/react-component-performance/SKILL.md`
+
+## skills/web-development/react-component-performance/agents
+- `skills/web-development/react-component-performance/agents/openai.yaml`
+
+## skills/web-development/react-component-performance/references
+- `skills/web-development/react-component-performance/references/examples.md`
+
+## skills/web-development/react-native-architecture
+- `skills/web-development/react-native-architecture/SKILL.md`
+
+## skills/web-development/react-native-architecture/resources
+- `skills/web-development/react-native-architecture/resources/implementation-playbook.md`
+
+## skills/web-development/react-state-management
+- `skills/web-development/react-state-management/SKILL.md`
+
+## skills/web-development/roier-seo
+- `skills/web-development/roier-seo/SKILL.md`
+
+## skills/web-development/roier-seo/scripts
+- `skills/web-development/roier-seo/scripts/audit-api.js`
+- `skills/web-development/roier-seo/scripts/audit.js`
+- `skills/web-development/roier-seo/scripts/package.json`
+
+## skills/web-development/segment-cdp
+- `skills/web-development/segment-cdp/SKILL.md`
+
+## skills/web-development/shadcn
+- `skills/web-development/shadcn/SKILL.md`
+- `skills/web-development/shadcn/cli.md`
+- `skills/web-development/shadcn/customization.md`
+- `skills/web-development/shadcn/mcp.md`
+
+## skills/web-development/shadcn/agents
+- `skills/web-development/shadcn/agents/openai.yml`
+
+## skills/web-development/shadcn/evals
+- `skills/web-development/shadcn/evals/evals.json`
+
+## skills/web-development/shadcn/rules
+- `skills/web-development/shadcn/rules/base-vs-radix.md`
+- `skills/web-development/shadcn/rules/composition.md`
+- `skills/web-development/shadcn/rules/forms.md`
+- `skills/web-development/shadcn/rules/icons.md`
+- `skills/web-development/shadcn/rules/styling.md`
+
+## skills/web-development/shopify-apps
+- `skills/web-development/shopify-apps/SKILL.md`
+
+## skills/web-development/shopify-development
+- `skills/web-development/shopify-development/SKILL.md`
+
+## skills/web-development/shopify-development/references
+- `skills/web-development/shopify-development/references/app-development.md`
+- `skills/web-development/shopify-development/references/extensions.md`
+- `skills/web-development/shopify-development/references/themes.md`
+
+## skills/web-development/shopify-development/scripts
+- `skills/web-development/shopify-development/scripts/.gitignore`
+- `skills/web-development/shopify-development/scripts/requirements.txt`
+- `skills/web-development/shopify-development/scripts/shopify_graphql.py`
+- `skills/web-development/shopify-development/scripts/shopify_init.py`
+
+## skills/web-development/shopify-development/scripts/tests
+- `skills/web-development/shopify-development/scripts/tests/test_shopify_init.py`
+
+## skills/web-development/sveltekit
+- `skills/web-development/sveltekit/SKILL.md`
+
+## skills/web-development/tailwind-design-system
+- `skills/web-development/tailwind-design-system/SKILL.md`
+
+## skills/web-development/tailwind-design-system/resources
+- `skills/web-development/tailwind-design-system/resources/implementation-playbook.md`
+
+## skills/web-development/tanstack-query-expert
+- `skills/web-development/tanstack-query-expert/SKILL.md`
+
+## skills/web-development/tavily-web
+- `skills/web-development/tavily-web/SKILL.md`
+
+## skills/web-development/upstash-qstash
+- `skills/web-development/upstash-qstash/SKILL.md`
+
+## skills/web-development/web-performance-optimization
+- `skills/web-development/web-performance-optimization/SKILL.md`
+
+## skills/web-development/zod-validation-expert
+- `skills/web-development/zod-validation-expert/SKILL.md`
+
+## skills/web-development/zustand-store-ts
+- `skills/web-development/zustand-store-ts/SKILL.md`
 
 ## skills/workflow-automation/dependabot-review
 - `skills/workflow-automation/dependabot-review/SKILL.md`
