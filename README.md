@@ -1,1 +1,36 @@
-IyBBZ2VudCBUZW1wbGF0ZXMg4oCUIENsYXVkZSBDb2RlIGNvbXBvbmVudHMsIGN1cmF0ZWQgZm9yIGEgd29ya2luZyBzdGFjawoKIVtMaWNlbnNlOiBNSVRdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTGljZW5zZS1NSVQtZ29sZC5zdmcpCiFbQ29tcG9uZW50c10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9jb21wb25lbnRzLTMyNy1ibHVlKQohW0NhdGFsb2ddKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvY2F0YWxvZy0xJTJDOTQwJTJCJTIwY29tcG9uZW50cy10ZWFsKQoKPGltZyBzcmM9ImFnZW50LXRlbXBsYXRlcy1iYW5uZXIucG5nIiBhbHQ9IkFnZW50IFRlbXBsYXRlcyIgd2lkdGg9IjEwMCUiIC8+CgpBIGJpZywgb3BpbmlvbmF0ZWQgcGFjayBvZiBhZ2VudHMsIGhvb2tzLCBjb21tYW5kcywgTUNQIGNvbmZpZ3MgYW5kIHNhbmRib3ggcnVudGltZXMg4oCUIGRyYXduIGZyb20gYSAxLDk0MCsgY29tcG9uZW50IG9wZW4tc291cmNlIGNhdGFsb2cgYW5kIHNlbGVjdGVkIGFnYWluc3QgdGhlIGdhcHMgaW4gb25lIGJ1aWxkZXIncyBhY3R1YWwgc3RhY2sgKGFnZW50IHRlYW1zLCBhIHRyYWRpbmcgZGVzaywgYSBsZWFkIGVuZ2luZSwgQ2hyb21lIGV4dGVuc2lvbnMsIGFuZCBhIGxvdCBvZiBHaXRIdWIgcmVsZWFzZXMgZG9uZSBieSBoYW5kKS4KCk5vdCBhIG1pcnJvciBvZiB0aGUgd2hvbGUgY2F0YWxvZyAoMSw5NDArIGNvbXBvbmVudHMpLiBUaGlzIGlzIHRoZSB+MzMwIGZpbGVzIHRoYXQgcGx1ZyByZWFsIGhvbGVzLiBGdWxsIGxpc3Q6IFtJTkRFWC5tZF0oSU5ERVgubWQpLgoKIyMgV2h5IHRoZXNlIOKAlCB0aGUgZ2FwIG1hcAoKfCBHYXAgfCBXaGF0IGZpbGxzIGl0IHwKfCAtLS0gfCAtLS0gfAp8IFNhbmRib3hlcyB0aGF0IGFyZSBmb2xkZXJzLCBub3QgYm91bmRhcmllcyB8IGBzYW5kYm94L2Ag4oCUIHJlYWwgRG9ja2VyLCBFMkIgYW5kIENsb3VkZmxhcmUgaXNvbGF0aW9uIHJ1bnRpbWVzIHwKfCBTYWZldHkgcnVsZXMgdGhhdCBsaXZlIGluIHByb3NlIHwgYGhvb2tzL3NlY3VyaXR5L2Ag4oCUIHN1YmFnZW50IHJlYWQtb25seSBndWFyZCwgZGFuZ2Vyb3VzLWNvbW1hbmQgYmxvY2tlciwgc2VjcmV0IHNjYW5uZXIsIGVudi1maWxlIHByb3RlY3Rpb24sIGZvcmNlLXB1c2ggYmxvY2tlciB8CnwgRGVzaWduL1RERCBnYXRlcyBrZXB0IGJ5IGhvbm91ciBzeXN0ZW0gfCBgaG9va3MvcXVhbGl0eS1nYXRlcy9gIOKAlCBwbGFuLWdhdGUsIHRkZC1nYXRlLCBzY29wZS1ndWFyZCB8CnwgTm8gb2JzZXJ2YWJpbGl0eSBvbiBhZ2VudCBydW5zIHwgYGhvb2tzL21vbml0b3JpbmcvYCDigJQgTGFuZ1NtaXRoIHRyYWNpbmcsIGNvbnRleHQgdGltZWxpbmUgfAp8IFJlbGVhc2VzIGRvbmUgYnkgaGFuZCwgZXZlcnkgdGltZSB8IGBjb21tYW5kcy9naXQvYCArIGBjb21tYW5kcy9kZXBsb3ltZW50L2Ag4oCUIHJlbGVhc2UgcHJlcCwgY2hhbmdlbG9nLCBhdXRvbWF0ZWQgcmVsZWFzZXM7IGBhZ2VudHMvZ2l0L2AgfAp8IFRoaW4gYmVuY2hlcyBpbiBzZWN1cml0eSwgZG9jcywgZGV2b3BzLCBkYXRhIHwgYGFnZW50cy9zZWN1cml0eS9gLCBgYWdlbnRzL2RvY3VtZW50YXRpb24vYCwgYGFnZW50cy9kZXZvcHMtaW5mcmFzdHJ1Y3R1cmUvYCwgYGFnZW50cy9kYXRhYmFzZS9gLCBgYWdlbnRzL2RhdGEtYWkvYCwgYGFnZW50cy9wZXJmb3JtYW5jZS10ZXN0aW5nL2AgfAp8IE9ic2lkaWFuIGluIHRoZSBibHVlcHJpbnQsIG5vIHZhdWx0IGFnZW50cyB8IGBhZ2VudHMvb2JzaWRpYW4tb3BzLXRlYW0vYCDigJQgNyB2YXVsdCBhZ2VudHMgfAp8IE1DUCBzZXJ2ZXJzIHdpcmVkIGFkIGhvYyB8IGBtY3BzL2Ag4oCUIGJyb3dzZXIgYXV0b21hdGlvbiAoUGxheXdyaWdodCksIGRhdGFiYXNlcyAoU3VwYWJhc2UvUG9zdGdyZXMvUmVkaXMvTW9uZ28pLCBkZXZ0b29scyAoR2l0SHViLCBDb250ZXh0NywgRmlyZWNyYXdsLCBDaHJvbWUgRGV2VG9vbHMpLCBmaWxlc3lzdGVtLCB3ZWIsIHJlc2VhcmNoIHwKCiMjIFVzZSBpdAoKQ29tcG9uZW50cyBhcmUgcGxhaW4gZmlsZXMg4oCUIHJlYWQgYmVmb3JlIHlvdSBpbnN0YWxsIGFueXRoaW5nLgoKLSAqKkNsYXVkZSBDb2RlOioqIGNvcHkgYWdlbnRzIGludG8gYC5jbGF1ZGUvYWdlbnRzL2AsIGNvbW1hbmRzIGludG8gYC5jbGF1ZGUvY29tbWFuZHMvYCwgaG9va3MgaW50byBgLmNsYXVkZS9ob29rcy9gIHdpdGggdGhlaXIgc2V0dGluZ3Mgc25pcHBldHMsIE1DUCBjb25maWdzIGludG8geW91ciBNQ1Agc2V0dGluZ3MuCi0gKipBbnkgb3RoZXIgYWdlbnQgc3VyZmFjZToqKiBhZ2VudHMgYW5kIGNvbW1hbmRzIGFyZSBtYXJrZG93biBhbmQgcG9ydCBkaXJlY3RseTsgaG9va3MgYXJlIENsYXVkZSBDb2RlIHNldHRpbmdzIGhvb2tzIGFuZCBuZWVkIGFkYXB0aW5nLgotIE9yIGluc3RhbGwgZnJvbSB0aGUgc291cmNlIGNhdGFsb2cgd2l0aCBpdHMgb3duIENMSTogYG5weCBjbGF1ZGUtY29kZS10ZW1wbGF0ZXNAbGF0ZXN0IC0tYWdlbnQgPGNhdGVnb3J5Pi88bmFtZT5gLgoKIyMgQ3JlZGl0ICYgbGljZW5zZQoKQWxsIGNvbXBvbmVudHMgY29tZSBmcm9tIFtkYXZpbGE3L2NsYXVkZS1jb2RlLXRlbXBsYXRlc10oaHR0cHM6Ly9naXRodWIuY29tL2RhdmlsYTcvY2xhdWRlLWNvZGUtdGVtcGxhdGVzKSBieSBEYW5pZWwgKFNhbikgw4F2aWxhIGFuZCBjb250cmlidXRvcnMsIE1JVC1saWNlbnNlZCDigJQgc2VlIFtMSUNFTlNFXShMSUNFTlNFKS4gVGhpcyByZXBvIGlzIGEgY3VyYXRlZCBzZWxlY3Rpb24gd2l0aCBzZWxlY3Rpb24gbm90ZXMsIG5vdCBhbiBvZmZpY2lhbCByZWxlYXNlIG9mIHRoYXQgcHJvamVjdCwgYW5kIGlzIG5vdCBhZmZpbGlhdGVkIHdpdGggaXQgb3Igd2l0aCBBbnRocm9waWMuCg==
+# Agent Templates — Claude Code components, curated for a working stack
+
+![License: MIT](https://img.shields.io/badge/License-MIT-gold.svg)
+![Components](https://img.shields.io/badge/components-327-blue)
+![Catalog](https://img.shields.io/badge/catalog-1%2C940%2B%20components-teal)
+
+<img src="agent-templates-banner.png" alt="Agent Templates" width="100%" />
+
+A big, opinionated pack of agents, hooks, commands, MCP configs and sandbox runtimes — drawn from a 1,940+ component open-source catalog and selected against the gaps in one builder's actual stack (agent teams, a trading desk, a lead engine, Chrome extensions, and a lot of GitHub releases done by hand).
+
+Not a mirror of the whole catalog (1,940+ components). This is the ~330 files that plug real holes. Full list: [INDEX.md](INDEX.md).
+
+## Why these — the gap map
+
+| Gap | What fills it |
+| --- | --- |
+| Sandboxes that are folders, not boundaries | `sandbox/` — real Docker, E2B and Cloudflare isolation runtimes |
+| Safety rules that live in prose | `hooks/security/` — subagent read-only guard, dangerous-command blocker, secret scanner, env-file protection, force-push blocker |
+| Design/TDD gates kept by honour system | `hooks/quality-gates/` — plan-gate, tdd-gate, scope-guard |
+| No observability on agent runs | `hooks/monitoring/` — LangSmith tracing, context timeline |
+| Releases done by hand, every time | `commands/git/` + `commands/deployment/` — release prep, changelog, automated releases; `agents/git/` |
+| Thin benches in security, docs, devops, data | `agents/security/`, `agents/documentation/`, `agents/devops-infrastructure/`, `agents/database/`, `agents/data-ai/`, `agents/performance-testing/` |
+| Obsidian in the blueprint, no vault agents | `agents/obsidian-ops-team/` — 7 vault agents |
+| MCP servers wired ad hoc | `mcps/` — browser automation (Playwright), databases (Supabase/Postgres/Redis/Mongo), devtools (GitHub, Context7, Firecrawl, Chrome DevTools), filesystem, web, research |
+
+## Use it
+
+Components are plain files — read before you install anything.
+
+- **Claude Code:** copy agents into `.claude/agents/`, commands into `.claude/commands/`, hooks into `.claude/hooks/` with their settings snippets, MCP configs into your MCP settings.
+- **Any other agent surface:** agents and commands are markdown and port directly; hooks are Claude Code settings hooks and need adapting.
+- Or install from the source catalog with its own CLI: `npx claude-code-templates@latest --agent <category>/<name>`.
+
+## Credit & license
+
+All components come from [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) by Daniel (San) Ávila and contributors, MIT-licensed — see [LICENSE](LICENSE). This repo is a curated selection with selection notes, not an official release of that project, and is not affiliated with it or with Anthropic.
