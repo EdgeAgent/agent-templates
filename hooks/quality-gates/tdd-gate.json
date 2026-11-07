@@ -1,0 +1,55 @@
+{
+  "description": "Enforces the red-green cycle of the test-driven-development skill. Blocks edits to production code (including shell writes such as `cat >`, `tee` and `sed -i`) until a test has been changed and a test run has failed in this session. After the change, it keeps Claude from finishing until the whole test suite has passed. Test files, docs and config are never blocked. Pairs with the skill development/test-driven-development: the skill teaches the cycle, the hook makes skipping it hard. Per-session state lives in the temp directory; the user can turn the gate off for a project by creating .claude/tdd-gate.off. Requires jq. Originally based on pm-workspace's tdd-gate (MIT).",
+  "supportingFiles": [
+    {
+      "source": "tdd-gate.sh",
+      "destination": ".claude/hooks/tdd-gate.sh",
+      "executable": true
+    }
+  ],
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Edit|Write|MultiEdit|Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"$CLAUDE_PROJECT_DIR\"/.claude/hooks/tdd-gate.sh"
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write|MultiEdit|Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"$CLAUDE_PROJECT_DIR\"/.claude/hooks/tdd-gate.sh"
+          }
+        ]
+      }
+    ],
+    "PostToolUseFailure": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"$CLAUDE_PROJECT_DIR\"/.claude/hooks/tdd-gate.sh"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"$CLAUDE_PROJECT_DIR\"/.claude/hooks/tdd-gate.sh"
+          }
+        ]
+      }
+    ]
+  }
+}
